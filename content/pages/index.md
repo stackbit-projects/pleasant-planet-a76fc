@@ -31,7 +31,7 @@ sections:
         style: button
 seo:
   title: marcog.me
-  description: The preview of the Fresh theme
+  description: Landing page of Marco G.
   extra:
     - name: 'og:type'
       value: website
