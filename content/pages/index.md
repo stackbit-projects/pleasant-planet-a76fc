@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Ciao! Sono Marco Garbin
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Dai un occhiata al mio (piccolo) spazio web: troverai i miei contatti e un
+      blog dove posterò idee, informazioni, esperienze.
+
   - section_id: about
     type: section_content
     title: About
