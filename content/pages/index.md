@@ -12,18 +12,17 @@ sections:
   - section_id: about
     type: section_content
     title: SU di me.
-    content: >+
+    content: >
       Il mio nome è Marco Garbin, sono nato a Valdagno (IT) il 28/08/1990.
 
 
       Adoro applicare le mie conoscenze alle mie principali passioni: la
-      mountain-bike e lo scii. Beh, direi alle attività all'aria aperta in
-      generale....
+      mountain-bike e lo scii. *Beh, direi alle attività all'aria aperta in
+      generale....*
 
 
-      Sono sinceramente appassionato nel pensare e produrre oggetti funzionali,
-      semplici, sostenibili e duraturi.
-
+      Sono sinceramente appassionato nel pensare e produrre oggetti *funzionali,
+      semplici, sostenibili e duraturi*.
     actions:
       - label: Contact Me
         url: /contact
