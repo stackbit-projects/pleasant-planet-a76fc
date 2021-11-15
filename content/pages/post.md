@@ -1,7 +1,7 @@
 ---
 title: Post
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: elenco dei post
 sections: []
 seo:
   title: ''
