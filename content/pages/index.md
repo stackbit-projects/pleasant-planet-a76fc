@@ -24,7 +24,7 @@ sections:
       Sono sinceramente appassionato nel pensare e produrre oggetti *funzionali,
       semplici, sostenibili e duraturi*.
     actions:
-      - label: Contact Me
+      - label: Contattami
         url: /contact
         style: button
   - section_id: recent-posts
