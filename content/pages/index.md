@@ -12,11 +12,18 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      Il mio nome è Marco Garbin, sono nato a Valdagno (IT) il 28/08/1990.
+
+
+      Adoro applicare le mie conoscenze alle mie principali passioni: la
+      mountain-bike e lo scii. Beh, direi alle attività all'aria aperta in
+      generale....
+
+
+      Sono sinceramente appassionato nel pensare e produrre oggetti funzionali,
+      semplici, sostenibili e duraturi.
+
     actions:
       - label: Contact Me
         url: /contact
