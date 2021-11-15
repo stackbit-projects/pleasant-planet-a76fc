@@ -1,6 +1,6 @@
 ---
 title: Post
-subtitle: lorem-ipsum
+subtitle: Qualche idea ed esperienza.
 img_alt: lorem-ipsum
 seo:
   title: ''
