@@ -11,7 +11,7 @@ sections:
 
   - section_id: about
     type: section_content
-    title: About
+    title: SU di me.
     content: >+
       Il mio nome è Marco Garbin, sono nato a Valdagno (IT) il 28/08/1990.
 
