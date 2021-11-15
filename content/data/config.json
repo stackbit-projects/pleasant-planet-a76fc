@@ -7,7 +7,7 @@
         "title": "Marco Garbin",
         "tagline": "Landing page",
         "background": "light",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
