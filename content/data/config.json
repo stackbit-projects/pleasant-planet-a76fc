@@ -28,14 +28,6 @@
                 "label": "Contatti",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_social": true,
