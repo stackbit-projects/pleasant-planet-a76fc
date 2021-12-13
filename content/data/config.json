@@ -6,7 +6,7 @@
     "header": {
         "title": "Marco Garbin",
         "tagline": "Landing page",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
