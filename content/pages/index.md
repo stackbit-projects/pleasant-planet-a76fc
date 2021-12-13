@@ -21,8 +21,8 @@ sections:
       generale....*
 
 
-      Sono sinceramente appassionato nel pensare e produrre oggetti *funzionali,
-      semplici, sostenibili e duraturi*.
+      Mi appassiona pensare e produrre oggetti *funzionali, semplici,
+      sostenibili e duraturi*.
     actions:
       - label: Contattami
         url: /contact
