@@ -16,7 +16,7 @@
             },
             {
                 "label": "Post",
-                "url": "/posts",
+                "url": "/posts/",
                 "style": "link"
             },
             {
