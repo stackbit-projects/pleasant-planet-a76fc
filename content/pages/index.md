@@ -21,6 +21,9 @@ sections:
       generale....*
 
 
+      Mi appassiona riparare le cose.
+
+
       Mi appassiona pensare e produrre oggetti *funzionali, semplici,
       sostenibili e duraturi*.
     actions:
