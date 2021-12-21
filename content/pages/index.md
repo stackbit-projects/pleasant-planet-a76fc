@@ -13,7 +13,8 @@ sections:
     type: section_content
     title: SU di me.
     content: >
-      Il mio nome è Marco Garbin, sono nato a Valdagno (VI) il 28/08/1990.
+      Il mio nome è Marco Garbin, sono nato a Valdagno (VI) il 28 agosto del
+      1990.
 
 
       Adoro applicare le mie conoscenze alle mie principali passioni: la
